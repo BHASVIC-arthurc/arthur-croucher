@@ -1,2 +1,1 @@
-# arthur-croucher
-My personal repository
+# About me
