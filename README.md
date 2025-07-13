@@ -12,3 +12,10 @@ currently im working on my final project for my computer science A-level includi
 - i work well in a team as proven in my previous group projects<br/>
 - i aways keep trying and never give up. <br/>
 - i never settle for unfinished work.
+
+## my work
+[greenfoot game](https://github.com/BHASVIC-arthurc/greenfoot-project)<br/>
+[Hotel_Kashyyyk](https://github.com/BHASVIC-arthurc/Hotel_Kashyyyk-)<br/>
+[chapter-Y](https://github.com/BHASVIC-arthurc/chapter-Y)<br/>
+[chapter-X](https://github.com/BHASVIC-arthurc/chapter-X)<br/>
+[pseudocode-challenge](https://github.com/BHASVIC-arthurc/pseudocode-challenge)<br/>
