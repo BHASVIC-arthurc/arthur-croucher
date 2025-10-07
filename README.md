@@ -1,5 +1,5 @@
 # About me
-hello my name is arthur. im a student at BHASVIC studying Maths, computer science and physics.
+hello my name is arthur. im a student at BHASVIC studying Maths, computer science and physics. im a talented game developer but i smell a bit
 
 ## what im looking for
 i would like to get a job in software development. looking into coding and programing. i would love to work in game design as it has always been a passion of mine and i would love to inspire the future generations as i myself have been enspired.
@@ -12,6 +12,8 @@ currently im working on my final project for my computer science A-level includi
 - i work well in a team as proven in my previous group projects<br/>
 - i aways keep trying and never give up. <br/>
 - i never settle for unfinished work.
+- i am employed at macdonalds
+- hollow knight silksong
 
 ## my work
 [greenfoot game](https://github.com/BHASVIC-arthurc/greenfoot-project)<br/>
