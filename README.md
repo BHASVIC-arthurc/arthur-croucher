@@ -13,7 +13,7 @@ Currently I'm not working on anything big as I have completed my computer scienc
 - I've completed multiple group projects in my class helping improve my team building skills<br/>
 
 ## my work
-[Computer science final projecy](https://github.com/BHASVIC-arthurc/computer-science-project)<br/><br/>
+[Computer science final project](https://github.com/BHASVIC-arthurc/computer-science-project)<br/><br/>
 
 [greenfoot game](https://github.com/BHASVIC-arthurc/greenfoot-project)<br/>
 [Hotel_Kashyyyk](https://github.com/BHASVIC-arthurc/Hotel_Kashyyyk-)<br/>
